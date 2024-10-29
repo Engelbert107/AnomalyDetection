@@ -1,6 +1,6 @@
 # AnomalyDetection
 # Purpose
-Demonstration of the various steps and methods involved in machine learning project.
+Demonstration of the various steps and methods involved in a machine learning project.
 # Summary
 The data we're working on is that of the intrusion detection system. The purpose of this poject is to demostrate the various steps and methods involved in machine learning project.
 
