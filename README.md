@@ -1,6 +1,7 @@
 # Anomaly Detection
 # Purpose
 **Purpose:** To illustrate the steps and methods involved in a machine learning project.
+
 # Summary
 The data used in this project comes from an Intrusion Detection System (IDS). The goal is to demonstrate the steps and methods involved in a machine learning project.
 
