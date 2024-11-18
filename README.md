@@ -1,5 +1,4 @@
 # Anomaly Detection
-# Purpose
 **Purpose:** To illustrate the steps and methods involved in a machine learning project.
 
 # Summary
